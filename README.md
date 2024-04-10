@@ -1,1 +1,1 @@
-# AB_Test
+GloBox, known for fashion and decor, has expanded its food and drink offerings. The company plans an A/B test featuring these products on its website. I'll evaluate the test outcomes to advise on a potential rollout to all users.
